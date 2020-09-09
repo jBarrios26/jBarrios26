@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Development**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **TypeScript**
 
 - 📫 How to reach me **jorge.barrios@galileo.edu**
 
